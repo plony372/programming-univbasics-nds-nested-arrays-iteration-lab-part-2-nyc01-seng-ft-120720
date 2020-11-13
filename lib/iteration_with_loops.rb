@@ -9,5 +9,6 @@ def find_min_in_nested_arrays(src)
     outer_results << array_of_daily_temperatures[row_counter].min
     row_counter += 1
     end
-outer_results
+    outer_results
+    
 end
